@@ -1,0 +1,10 @@
+C:\Users\micha\Documents\Files\Coding\Windows Form\Enrolment\Enrolment\bin\Debug\Enrolment.exe.config
+C:\Users\micha\Documents\Files\Coding\Windows Form\Enrolment\Enrolment\bin\Debug\Enrolment.exe
+C:\Users\micha\Documents\Files\Coding\Windows Form\Enrolment\Enrolment\bin\Debug\Enrolment.pdb
+C:\Users\micha\Documents\Files\Coding\Windows Form\Enrolment\Enrolment\obj\Debug\Enrolment.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\Files\Coding\Windows Form\Enrolment\Enrolment\obj\Debug\Enrolment.Form1.resources
+C:\Users\micha\Documents\Files\Coding\Windows Form\Enrolment\Enrolment\obj\Debug\Enrolment.Properties.Resources.resources
+C:\Users\micha\Documents\Files\Coding\Windows Form\Enrolment\Enrolment\obj\Debug\Enrolment.csproj.GenerateResource.cache
+C:\Users\micha\Documents\Files\Coding\Windows Form\Enrolment\Enrolment\obj\Debug\Enrolment.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\Files\Coding\Windows Form\Enrolment\Enrolment\obj\Debug\Enrolment.exe
+C:\Users\micha\Documents\Files\Coding\Windows Form\Enrolment\Enrolment\obj\Debug\Enrolment.pdb
